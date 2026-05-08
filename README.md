@@ -44,8 +44,8 @@ pip install customtkinter requests Pillow
 ## 📦 التثبيت والتشغيل | Installation & Usage
 1. **تحميل المشروع**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/adhahi-dz-tool.git
-   cd adhahi-dz-tool
+   Git clone https://github.com/haithemgdi/adhahi.dz.git
+   cd adhahi.dz
    ```
    *(أو قم بتحميل الملفات مضغوطة مباشرة من صفحة الإصدارات)*
 
