@@ -1,6 +1,3 @@
-إليك نسخة مُعادة الصياغة والتنسيق بشكل احترافي، مع تحسين الهيكلية، إضافة وسوم (Badges)، جدول محتويات، وإصلاح أخطاء التنسيق في النسخة الأصلية. يمكنك نسخها مباشرة إلى ملف `README.md`:
-
-```markdown
 # 🐑 Adhahi DZ Registration Tool | أداة التسجيل في منصة أضحي
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?logo=python&logoColor=white)](https://www.python.org/)
